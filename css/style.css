@@ -7,7 +7,9 @@
 
 
 
-
+body {
+	margin-top: 50px;
+}
 
 
 
@@ -43,6 +45,7 @@ footer{
 
 footer p{
 	color: #aaa;
+	margin-top: 10px;
 }
 
 
